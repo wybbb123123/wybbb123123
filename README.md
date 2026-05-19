@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- codex-profile-bounty-2177 -->
+## Projects I Review
+
+[![RustChain Reviewer](https://img.shields.io/badge/RustChain-Reviewer-blue)](https://github.com/Scottcjn/Rustchain)
+
+- RustChain code-review and bounty work: https://github.com/Scottcjn/rustchain-bounties/issues/73
+- RustChain ecosystem MCP tooling: https://github.com/Scottcjn/rustchain-mcp
